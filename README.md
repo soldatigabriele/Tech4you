@@ -6,6 +6,6 @@ My task in this job was to create a secure way to store users information during
 <br>
 I did it using an object oriented design: in the "classes" folder it is possible to see all the classes used by the app to work.
 <br>
-To store the passwords we used an alghorithm which encrypted data adding a salt string. 
+To store the passwords we used an alghorithm which encrypted data adding a salt string. A two-factor authentication code is required furthermore to login.
 <br>
  
